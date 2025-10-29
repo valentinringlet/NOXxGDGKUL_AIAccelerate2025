@@ -1,0 +1,2 @@
+# All required libraries for development
+jupyter notebook
